@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdellah Khalid</h1>
 <h3 align="center">a highly skilled Android developer with a passion for creating innovative and engaging mobile applications.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidabdou&label=Profile%20views&color=0e75b6&style=flat" alt="khalidabdou" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on [toWebp Project](https://anytowebp-qnhzzwtl7-khalidabdou.vercel.app/)
 
 - 🌱 I’m currently learning **advanced jetpack compose**
@@ -25,3 +29,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khalidabdou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khalidabdou" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidabdou&show_icons=true&locale=en&layout=compact" alt="khalidabdou" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidabdou&show_icons=true&locale=en" alt="khalidabdou" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdou&" alt="khalidabdou" /></p>
