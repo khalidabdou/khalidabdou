@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidabdou&label=Profile%20views&color=0e75b6&style=flat" alt="khalidabdou" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [toWebp Project](https://anytowebp-qnhzzwtl7-khalidabdou.vercel.app/)
 
 - 🌱 I’m currently learning **advanced jetpack compose**
