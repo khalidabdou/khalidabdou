@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **android**
 
-- 📫 How to reach me **khall.abdou12@gmail.com**
+- 📫 How to reach me **khald.abdou12@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio2.khalidabdellah.com/](https://portfolio2.khalidabdellah.com/)
 
