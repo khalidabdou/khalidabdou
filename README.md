@@ -17,7 +17,7 @@
 - 💼 **Currently:** Freelancing & Open to Work
 - 🌱 **Learning:** Advanced Jetpack Compose & SwiftUI
 - 👨‍💻 **Portfolio:** [abdellahkhalid.com](https://abdellahkhalid.com/)
-- 📝 **Blog:** [specialones.online](http://specialones.online/)
+- 📝 **Blog:** [abdellahkhalid.com/blogs](https://abdellahkhalid.com/blogs)
 - 💬 **Ask me about:** Android, iOS, Mobile Development
 - 📫 **Contact:** khald.abdou12@gmail.com
 
@@ -34,11 +34,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="50" height="50"/>
   </a>
 </p>
 
@@ -71,15 +71,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidabdou&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="khalidabdou" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=khalidabdou&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidabdou&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalidabdou&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="khalidabdou" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdou&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdou&theme=tokyonight&hide_border=true&background=0D1117" alt="khalidabdou" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidabdou&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=FF6B6B" alt="GitHub Activity Graph" />
 </div>
 
 ---
