@@ -74,10 +74,10 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=khalidabdou&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=khalidabdou&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidabdou&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidabdou&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -88,7 +88,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidabdou&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=FF6B6B" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalidabdou&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 ---
